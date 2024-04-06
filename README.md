@@ -1,1 +1,1 @@
-# dart_praticies
+### Just a dart fundamentals practices repository
